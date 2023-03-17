@@ -1,0 +1,14 @@
+{
+"employees":[
+    {"id": 1, "name": "Erős István", "city": "Szeged", "salary": 386},
+    {"id": 2, "name": "Árny Balázs", "city": "Pécs", "salary": 389},
+    {"id": 3, "name": "Jóska Pista", "city": "Salgótarján", "salary": 396},
+    {"id": 4, "name": "Hajdú József", "city": "Bronx", "salary": 496},
+    {"id": 5, "name": "Michael Jackson", "city": "Miskolc", "salary": 306}
+],
+"ranks":[
+    {"id": 1, "name": "lapátos"},
+    {"id": 2, "name": "áru összeállító"},
+    {"id": 3, "name": "Szoftverfejlesztő"}
+]
+}
